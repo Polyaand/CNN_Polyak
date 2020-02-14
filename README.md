@@ -7,3 +7,10 @@ Nakonec sem se rozhod to udelat v mac.os protoze ve Windows sem mel problem s na
 Proto sem proved jen 3 epochy protoze pracuji jen s CPU . 
 
 nahral jsem jupyter notebook s popisem celeho kodu.
+
+
+Pracoval sem se softwarem miniconda coz je zmenseny balicek condy
+doistaloval sem Tensorflow, Keras, Pytroch, Jupyternotebook, a dalsi potrebne softwery potrebne pro machine a deep learning
+
+
+
