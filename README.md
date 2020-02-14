@@ -1,16 +1,40 @@
 # CNN_Polyak
-Konvolucni neurnova sit. Pracoval jsem Python verze 3.7 a knihovnou Pytroch.
+Konvolucni neurnova sit. Pytroch
+
+Miniconda 3
+Python 3.7
+Pytroch 1.4
+
+Tensorflow
+dependencies:
+    - python=3.7
+    - pip>=19.0
+    - jupyter
+    - tensorflow=2.0
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - pip:
+        - bayesian-optimization
+        - gym
+        - kaggle
+
+
+
+
 Jako trenovaci data jsem pouzil Dogs vs Cats dataset od Microsoftu
-Istalaci vsech potrebnych komponent jsem pro tuhle CNN delal jak na mac.os tak na widowsech.
-Nakonec sem se rozhod to udelat v mac.os protoze ve Windows sem mel problem s nactenim tensorflow kernelu, mysli ze to nakonec byl token.
 
-Proto sem proved jen 3 epochy protoze pracuji jen s CPU . 
+Mac.os, Windows
 
-nahral jsem jupyter notebook s popisem celeho kodu.
-
-
-Pracoval sem se softwarem miniconda coz je zmenseny balicek condy
-doistaloval sem Tensorflow, Keras, Pytroch, Jupyternotebook, a dalsi potrebne softwery potrebne pro machine a deep learning
-
+Soubor JupyterNotebook cely kod doplnen poznamkama
 
 
